@@ -1,1 +1,1 @@
-window.location.replace("https://wwww.jagoankonten.com/jasa-artikel")
+window.location.replace("http://www.jagoankonten.com");
