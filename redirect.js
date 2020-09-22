@@ -1,1 +1,1 @@
-window.location.replace("http://www.jagoankonten.com");
+window.setTimeout(function(){ window.location = "http://www.jagoankonten.com"; },3000)
